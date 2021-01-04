@@ -1,4 +1,4 @@
-FROM python:3.8-alpine
+FROM python:3.7-alpine
 MAINTAINER Victor Adenuga
 
 ENV PYTHONUNBUFFERED 1
